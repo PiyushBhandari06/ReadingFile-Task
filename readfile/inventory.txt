@@ -1,2 +1,2 @@
-The erorr we were countering was that we were trying to console data of a javascript file rather than a text file, using Node.js functions.
-which is not at all feasible on broswer !
+The erorr we were encountering was that, we were trying to console data of a javascript file rather than a text file, using Node.js functions.
+which is not at all feasible on browser !
